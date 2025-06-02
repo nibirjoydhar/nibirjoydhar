@@ -32,7 +32,4 @@ CS Student at Jagannath University, Dhaka
   [GitHub](https://github.com/nibirjoydhar/resume-analyzer)
 - **CodeJudge**: Competitive coding platform built with Laravel, Tailwind CSS, and MySQL.  
   [GitHub](https://github.com/nibirjoydhar/codejudge)
-- **Vulnerability Detection Research**: Ongoing work on C/C++ code analysis using VulBERTa and RoBERTa-based models.  
-  [GitHub](https://github.com/nibirjoydhar/vulberta-research)
-
-*Contest standings and project details available at [Codeforces Profile](https://codeforces.com/profile/nibirjoydhar) or [GitHub](https://github.com/nibirjoydhar)*
+- **Vulnerability Detection Research**: Ongoing work on C/C++ code analysis using VulBERTa and RoBERTa-based models.
